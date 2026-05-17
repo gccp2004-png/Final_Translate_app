@@ -1,0 +1,6 @@
+framework module google_mlkit_language_id {
+  umbrella header "google_mlkit_language_id-umbrella.h"
+
+  export *
+  module * { export * }
+}
